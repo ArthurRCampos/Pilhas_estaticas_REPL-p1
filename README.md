@@ -1,6 +1,7 @@
 # Pilhas_estaticas_REPL-parte 1
 
-#📌 Descrição
+# Descrição:
+
 Esta é a primeira parte de um projeto que implementa um interpretador simples (REPL - Read-Eval-Print Loop) em linguagem C. 
 Nesta fase inicial, o foco é construir a base do sistema com as seguintes funcionalidades:
 
