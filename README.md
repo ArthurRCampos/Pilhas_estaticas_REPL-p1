@@ -10,25 +10,6 @@ Este repositório contém a primeira parte do desenvolvimento de um interpretado
 - `interpret.c` / `interpret.h`: Implementa a lógica de interpretação e execução de comandos.
 - `stack.c` / `stack.h`: Define e implementa uma pilha (stack) com operações fundamentais (`push`, `pop`, etc.).
 
-## 🛠️ Compilação
-
-Para compilar o projeto, utilize o compilador GCC com o seguinte comando:
-
-```bash
-gcc main.c interpret.c stack.c -o repl
-```
-
-Isso irá gerar o executável `repl`.
-
-## ▶️ Execução
-
-Após a compilação, o programa pode ser executado com:
-
-```bash
-./repl
-```
-
-O sistema entrará em modo interativo, permitindo que comandos sejam digitados e interpretados em tempo real.
 
 ## ✅ Funcionalidades Implementadas
 
