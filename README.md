@@ -11,7 +11,8 @@ Estrutura de pilha para manipulação de dados temporários.
 
 Módulo de interpretação responsável por identificar e executar comandos básicos.
 
-🗂️ Estrutura dos Arquivos
+## Estrutura dos Arquivos:
+
 main.c: Função principal e loop do REPL.
 
 interpret.c / interpret.h: Funções para interpretação e execução de comandos.
