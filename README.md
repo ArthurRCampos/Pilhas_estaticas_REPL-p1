@@ -1,4 +1,4 @@
-# 🧠 Projeto REPL – Parte 1
+# 🧠 Projeto PILHAS ESTATICAS REPL – Parte 1
 
 ## 📌 Descrição
 
@@ -34,8 +34,8 @@ Você pode testar o REPL digitando comandos diretamente no terminal após a exec
 
 ## 👨‍💻 Autor
 
-- [ARTHUR RODRIGUES CAMPOS
-CRISTHIAN RENAN CAMPOS COSTA
-FABIO CARVALHO EVERTON
+- [ARTHUR RODRIGUES CAMPOS/
+CRISTHIAN RENAN CAMPOS COSTA/
+FABIO CARVALHO EVERTON/
 GABRIEL PEREIRA SODRE]
 - Trabalho acadêmico – [ALGORITMO E ESTRUTURA DE DADOS]
